@@ -3,5 +3,3 @@ this will not change commit number
 Commit no: 6
 
 this is for diff purp[ose
-
-commit 7 in master branch
